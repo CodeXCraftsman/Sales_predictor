@@ -1,0 +1,9 @@
+y_test-23 res per item
+y_pred- predicted by model
+X_pred-18, 19, 21, 22 per item per month
+X_test-23 per item
+
+
+data_test- reduced common 18-22 data
+data_pred- 23 data
+X_pred= "Item Names" common in both 
